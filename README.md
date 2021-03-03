@@ -9,6 +9,8 @@
  ● Yapay zekası kuvetlendirilmiş, bitirilmiş ve 2D hali Play Store'da mevcut
  https://play.google.com/store/apps/details?id=com.Dukware.JiBoard&hl=tr&gl=US
  
+ ● Sonuç:
+ 
  
  
  
