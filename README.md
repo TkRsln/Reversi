@@ -10,7 +10,7 @@
  https://play.google.com/store/apps/details?id=com.Dukware.JiBoard&hl=tr&gl=US
  
  ● Sonuç:
- 
+ ![Alt text](https://github.com/TkRsln/Reversi/blob/main/image/result_1.jpg?raw=true "Title")
  
  
  
